@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Primero de master modificado
+Primero de B01
+=======
+Primero de b02
+>>>>>>> b02
